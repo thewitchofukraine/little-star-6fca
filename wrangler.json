@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "little-star-6fca",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c15af232-2b85-42b8-9efd-784c0f409699",
+      "database_name": "quiet-feather-ce6c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
